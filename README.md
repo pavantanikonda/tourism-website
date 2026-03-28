@@ -23,8 +23,10 @@ A modern and responsive tourism website designed to showcase popular travel dest
 
 ## 📷 Screenshots
 
-![Home Page](Screenshot 2026-03-28 154247.png)
-![Menu Page](Screenshot 2026-03-28 154323.png)
+![Home Page](tourism.png)
+![places](homepage.png)
+![Taj](taj.png)
+
 
 
 ## 👨‍💻 Author
