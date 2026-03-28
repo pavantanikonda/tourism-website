@@ -13,7 +13,7 @@ This is a responsive tourism website built using HTML and CSS. It showcases diff
 - CSS3
 
 ## 🔗 Live Demo
-https://yourlink.com
+https://tourismstaticw.ccbp.tech/
 
 ## 📷 Screenshots
 (Add screenshots here if possible)
